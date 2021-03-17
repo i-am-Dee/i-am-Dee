@@ -1,11 +1,7 @@
 ### Hi there 👋
+### This is Deepanshu
 
-
-![Alt text][id]
-
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
+<img src="https://octodex.github.com/images/dojocat.jpg" alt="drawing" width="200"/>
 
 <!--
 **i-am-Dee/i-am-Dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
