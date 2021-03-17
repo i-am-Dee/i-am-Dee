@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+
+![Alt text][id]
+
+
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
 
 <!--
 **i-am-Dee/i-am-Dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
