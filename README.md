@@ -7,10 +7,10 @@
 Tool and Technolgies
 
 `Programming Language` - Python, Java, Javascript
-<br>`Technologies` - Full Stack Web Developement, DL & ML, NLP<\br>
-<br>`Frameworks` - Django, Flask, Tensorflow, Keras, OpenCV, Caffe2, NLTK, Beautifull Soup, Spring MVC, Spring Boot<\br>
-<br>`Tools` - Conda, JIRA, SAP, PostgreSQL, Docker, Jenkins, Kubernetes, Linus Bash Scripting<\br>
-<br>`Methodlgoies` - Scrum (Agile), OOPs<\br>
+<br>`Technologies` - Full Stack Web Developement, DL & ML, NLP
+<br>`Frameworks` - Django, Flask, Tensorflow, Keras, OpenCV, Caffe2, NLTK, Beautifull Soup, Spring MVC, Spring Boot
+<br>`Tools` - Conda, JIRA, SAP, PostgreSQL, Docker, Jenkins, Kubernetes, Linus Bash Scripting
+<br>`Methodlgoies` - Scrum (Agile), OOPs
 
 <!--
 **i-am-Dee/i-am-Dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
